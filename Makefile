@@ -9,7 +9,7 @@ up:
 	$(DC) up -d
 
 down:
-	 ${DC} down
+	${DC} down
 
 restart: down up
 
